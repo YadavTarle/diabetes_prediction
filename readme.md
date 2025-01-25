@@ -1,6 +1,3 @@
-Based on the available information, here is a suggested structure for your README file:
-
----
 
 # Diabetes Prediction
 
